@@ -1,5 +1,10 @@
-# gcc coverage testing tool files
+# Verilog ancilliary files
 
-*.gcno
-*.gcda
-*.gcov
+*.bak
+*.vwf
+
+# Verilog ancilliary directories
+db/
+incremental_db/
+output_files/
+simulation/
